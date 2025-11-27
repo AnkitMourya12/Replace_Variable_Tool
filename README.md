@@ -133,14 +133,3 @@ Feel free to open an issue or suggest improvements!
 
 If you like this tool, please give this repository a star ⭐ on GitHub!
 
-
----
-
-If you want, I can also create:
-
-✔ A README with images  
-✔ A README with badges  
-✔ A README with a project logo  
-✔ A README with setup instructions for GUI version  
-
-Just tell me!
